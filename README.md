@@ -56,14 +56,3 @@ python run_gui.py
 - 온톨로지 데이터 추출 및 분석
 - 대화형 GUI 인터페이스
 
-## 기술 스택
-
-- Python
-- NetworkX (그래프 분석)
-- PyQt (GUI)
-- Matplotlib (시각화)
-- Google Gemini API (텍스트 분석)
-
-## 라이선스
-
-MIT License
